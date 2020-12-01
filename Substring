@@ -1,0 +1,3 @@
+function substring(word, start, end){
+console.log(word.substr(start,end));
+}
